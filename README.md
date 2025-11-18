@@ -22,7 +22,8 @@
 
 # After Exiting, Open Putty with same process, Then run the following command 
 
-![Uploading image.png…]()
+<img width="800" height="186" alt="image" src="https://github.com/user-attachments/assets/2db1ff73-0c11-4b49-a5d5-54b0f08f58b9" />
+
 
 
 # Docker is running successfully
