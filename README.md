@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5479fa0b-7fbe-4fb4-9036-faf81fc1232a" /># Cloud-Computing
+# Cloud-Computing
 # VM RUNNing
 <img width="1920" height="880" alt="Screenshot (257)" src="https://github.com/user-attachments/assets/acc64066-e997-486c-b100-79c25e6f9e8f" />
 # pUTTY working
