@@ -1,6 +1,7 @@
 # Cloud-Computing
 # VM RUNNing
 <img width="1920" height="880" alt="Screenshot (257)" src="https://github.com/user-attachments/assets/acc64066-e997-486c-b100-79c25e6f9e8f" />
+
 # pUTTY working
 <img width="727" height="580" alt="image" src="https://github.com/user-attachments/assets/6bbd7a4e-d636-4de6-854f-8b07d4848f96" />
 
